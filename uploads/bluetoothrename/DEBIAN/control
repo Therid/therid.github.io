@@ -4,6 +4,6 @@ Depends: mobilesubstrate
 Version: 1.1
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: Alexandre
-Author: Alexandre
+Maintainer: Alexandre <alexandre31.tweak@gmail.com>
+Author: Alexandre <alexandre31.tweak@gmail.com>
 Section: Tweaks
