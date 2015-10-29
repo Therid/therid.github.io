@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Origin: Alexander's Cydia Repository
-Label: Alexander's Cydia Repository
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Alexander's Cydia Repository for Beta Tweaks
-=======
 Origin: Alexandre's Beta Tweaks Repo
 Label: Alexandre's Beta Tweaks Repo
 Suite: stable
@@ -17,15 +6,3 @@ Codename: optimal
 Architectures: iphoneos-arm
 Components: main
 Description: Beta tweaks repo.
->>>>>>> origin/master
-=======
-
-Origin: Alexandre's Beta Tweaks Repo
-Label: Alexandre's Beta Tweaks Repo
-Suite: stable
-Version: 1.0
-Codename: optimal
-Architectures: iphoneos-arm
-Components: main
-Description: Beta tweaks repo.
->>>>>>> 735cb5926759feb9dd5a886a0709761a2939b6d6
