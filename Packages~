@@ -1,9 +1,9 @@
 Package: com.alex.bluetoothrename
-Version: 1.1 
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Alexandre
 Depends: mobilesubstrate
-Filename: /debs/bluetoothrename.deb
+Filename: ./debs/bluetoothrename.deb
 Size: 3040
 MD5sum: e16ac7143949673d5f92baaa44b08743
 SHA1: e5f7f514bd34127baf3477aa305e43781c497e99
