@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-Package: com.alex.bluetoothrename
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Alexandre<alexandre31.tweak@gmail.com>
-Depends: firmware (>7.0)
-Filename:  ./debs/com.alex.bluetoothrename_0.0.1-169_iphoneos-arm.deb
-Size: 891
-MD5sum: d9e1b192a56a4f6d9758b14ad6ffaa79
-Section: Tweaks
-Description: Rename yours Bluetooth devices.
-Author: Alexandre<alexandre31.tweak@gmail.com>
-Depiction: http://therid.github.io/depictions/index.html?p=com.alex.bluetoothrename
-Name: Bluetooth Devices Renamer
-=======
 Package: com.alex.bluetoothrename
 Version: 1.1
 Section: Tweaks
@@ -25,5 +10,3 @@ MD5sum: e6ad042c7e178cf9739b88f3cecc11c4
 Description: An awesome MobileSubstrate tweak!
 Name: Bluetooth Rename
 Author: Alexandre
-
->>>>>>> origin/master
