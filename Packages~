@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Alexandre
 Installed-Size: 69
 Depends: mobilesubstrate
-Filename: /com.alex.bluetoothrename_0.0.1-171_iphoneos-arm.deb
+Filename: ./com.alex.bluetoothrename_0.0.1-171_iphoneos-arm.deb
 Size: 9136
 MD5sum: bd307b1a97f315652fe44e0329632904
 SHA1: 1a7358af2c79a2c7108ee9ab631e9ad2c477960a
@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Maintainer: Alexandre
 Installed-Size: 69
 Depends: mobilesubstrate
-Filename: /com.alex.bluetoothrename1.deb
+Filename: ./com.alex.bluetoothrename1.deb
 Size: 9412
 MD5sum: d222fccb12e3282b8c0307ded84dfb02
 SHA1: 618d02f9bdd945c4ab6336b1c438079acd70acca
@@ -36,7 +36,7 @@ Architecture: iphoneos-arm
 Maintainer: Alexandre
 Installed-Size: 69
 Depends: mobilesubstrate
-Filename: /com.alex.bluetoothrename.deb
+Filename: ./com.alex.bluetoothrename.deb
 Size: 7736
 MD5sum: c340b7075ac3da40ea1dc4eb55394d1b
 SHA1: 8939607e7ea505ffe6d7a5df0c57a677d01d3579
