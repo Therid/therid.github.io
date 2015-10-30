@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Alexandre
 Installed-Size: 69
 Depends: mobilesubstrate
-Filename: /com.alex.bluetoothrename.deb
+Filename: /debs/com.alex.bluetoothrename.deb
 Size: 7736
 MD5sum: c340b7075ac3da40ea1dc4eb55394d1b
 SHA1: 8939607e7ea505ffe6d7a5df0c57a677d01d3579
@@ -13,4 +13,3 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Alexandre
 Name: Bluetooth Rename
-
