@@ -5,11 +5,7 @@ Maintainer: Alexandre
 Installed-Size: 69
 Depends: mobilesubstrate
 Filename: /debs/com.alex.bluetoothrename.deb
-<<<<<<< HEAD
-http://therid.github.io/depiction/bluetoothrename/theme.html
-=======
 Depiction: http://therid.github.io/depiction/bluetoothrename/theme.html
->>>>>>> origin/master
 Size: 9412
 MD5sum: ec250177279f41d4a31b668f0401a449
 SHA1: 6373fd9ba0336f438445591336ed6081e7339f96
