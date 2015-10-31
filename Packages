@@ -13,7 +13,7 @@ Section: Tweaks
 Description: Your Bluetooth Device Name in Settings!
 Author: Alexandre <alexandre31.tweak@gmail.com>
 Name: Bluetooth Name in Settings
-Deciption: http://therid.github.io/depiction/bluetoothsnameinsettings/theme.html
+Depiction: http://therid.github.io/depiction/bluetoothsnameinsettings/theme.html
 
 Package: com.alex.bluetoothrename
 Version: 1.1-1
@@ -30,5 +30,5 @@ Section: Tweaks
 Description: Rename your Bluetooth Devices!
 Author: Alexandre <alexandre31.tweak@gmail.com>
 Name: Bluetooth Devices Renamer
-Deciption: http://therid.github.io/depiction/bluetoothrename/theme.html
+Depiction: http://therid.github.io/depiction/bluetoothrename/theme.html
 
