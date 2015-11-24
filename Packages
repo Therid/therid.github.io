@@ -1,0 +1,34 @@
+Package: com.alex.bluetoothname
+Version: 1.1-8
+Architecture: iphoneos-arm
+Maintainer: Alexandre <alexandre31.tweak@gmail.com>
+Installed-Size: 69
+Depends: mobilesubstrate
+Filename: /debs/com.alex.bluetoothname.deb
+Size: 7128
+MD5sum: d9d5b4ca4b1592e319eae40336cc843f
+SHA1: 8b22e31b30aac25c8bd5b002ad249b58545dfa39
+SHA256: 9a5c5624b4d731852b20af756f8c2b3de4f630ffd002ee175c79195fa0d6ec02
+Section: Tweaks
+Description: Your Bluetooth Device Name in Settings!
+Author: Alexandre <alexandre31.tweak@gmail.com>
+Name: Bluetooth Name in Settings
+Depiction: http://therid.github.io/depiction/bluetoothsnameinsettings/theme.html
+
+Package: com.alex.bluetoothrename
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Alexandre <alexandre31.tweak@gmail.com>
+Installed-Size: 69
+Depends: mobilesubstrate
+Filename: /debs/com.alex.bluetoothrename.deb
+Size: 9412
+MD5sum: dd228e4955e7d336386dbba219a462d0
+SHA1: dc55ff0f29d80d90a9292d7a2d31d9ac2017ec11
+SHA256: 934e12dce7dd4a662907d018bc1e24cd79a854962b528499f4846194505101bb
+Section: Tweaks
+Description: Rename your Bluetooth Devices!
+Author: Alexandre <alexandre31.tweak@gmail.com>
+Name: Bluetooth Devices Renamer
+Depiction: http://therid.github.io/depiction/bluetoothrename/theme.html
+
