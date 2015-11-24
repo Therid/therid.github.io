@@ -1,43 +1,45 @@
 Package: com.alex.bluetoothname
-Version: 1.1-8
+Version: 1.1.5-1
 Section: Tweaks
 Maintainer: Alexandre <alexandre31.tweak@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.alex.bluetoothname.deb
-Size: 7128
-Installed-Size: 69
-MD5sum: d9d5b4ca4b1592e319eae40336cc843f
+Filename: /debs/com.alex.bluetoothname_1.1.5-1_iphoneos-arm.deb
+Size: 7830
+Installed-Size: 104
+MD5sum: d91dc4b08e81ff08b304a22d39ac63c5
 Description: Your Bluetooth Device Name in Settings!
 Name: Bluetooth Name in Settings
 Author: Alexandre <alexandre31.tweak@gmail.com>
+Depiction: http://therid.github.io/depiction/bluetoothsnameinsettings/theme.html
 
 Package: com.alex.bluetoothrename
-Version: 1.1-1
-Section: Tweaks
-Maintainer: Alexandre
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: /debs/com.alex.bluetoothrename.deb
-Size: 9412
-Installed-Size: 69
-MD5sum: dd228e4955e7d336386dbba219a462d0
-Description: Rename your Bluetooth Devices!
-Name: Bluetooth Rename
-Author: Alexandre
-
-Package: com.alex.tweakcount2
-Version: 0.0.1-72
+Version: 1.1-71
 Section: Tweaks
 Maintainer: Alexandre <alexandre31.tweak@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.alex.tweakcount2_0.0.1-72_iphoneos-arm.deb
-Size: 20350
+Filename: /debs/com.alex.bluetoothrename_1.1-71_iphoneos-arm.deb
+Size: 9920
+Installed-Size: 104
+MD5sum: 6183ece7ba840dfc20a5c5cf02e2fd19
+Description: Rename your Bluetooth Devices!
+Name: Bluetooth Devices Renamer
+Author: Alexandre <alexandre31.tweak@gmail.com>
+Depiction: http://therid.github.io/depiction/bluetoothrename/theme.html
+
+Package: com.alex.tweakcount2
+Version: 0.0.1-74
+Section: Tweaks
+Maintainer: Alexandre <alexandre31.tweak@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/com.alex.tweakcount2_0.0.1-74_iphoneos-arm.deb
+Size: 20366
 Installed-Size: 244
-MD5sum: 8df8e456444629ffee09e27fc7c2216c
+MD5sum: f33dff582086e8a24e82561ca1c7b167
 Description: An awesome MobileSubstrate tweak!
 Name: Tweak Count 2
 Author: Alexandre <alexandre31.tweak@gmail.com>
-Depiction: caca
+Depiction: http://therid.github.io/depiction/tweakcount2/theme.html
 
