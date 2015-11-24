@@ -1,0 +1,43 @@
+Package: com.alex.bluetoothname
+Version: 1.1-8
+Section: Tweaks
+Maintainer: Alexandre <alexandre31.tweak@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /therid.github.io-master/debs/com.alex.bluetoothname.deb
+Size: 7128
+Installed-Size: 69
+MD5sum: d9d5b4ca4b1592e319eae40336cc843f
+Description: Your Bluetooth Device Name in Settings!
+Name: Bluetooth Name in Settings
+Author: Alexandre <alexandre31.tweak@gmail.com>
+
+Package: com.alex.bluetoothrename
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Alexandre
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /therid.github.io-master/debs/com.alex.bluetoothrename.deb
+Size: 9412
+Installed-Size: 69
+MD5sum: dd228e4955e7d336386dbba219a462d0
+Description: Rename your Bluetooth Devices!
+Name: Bluetooth Rename
+Author: Alexandre
+
+Package: com.alex.tweakcount2
+Version: 0.0.1-72
+Section: Tweaks
+Maintainer: Alexandre <alexandre31.tweak@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /therid.github.io-master/debs/com.alex.tweakcount2_0.0.1-72_iphoneos-arm.deb
+Size: 20350
+Installed-Size: 244
+MD5sum: 8df8e456444629ffee09e27fc7c2216c
+Description: An awesome MobileSubstrate tweak!
+Name: Tweak Count 2
+Author: Alexandre <alexandre31.tweak@gmail.com>
+Depiction: caca
+
