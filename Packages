@@ -29,15 +29,15 @@ Author: Alexandre <alexandre31.tweak@gmail.com>
 Depiction: http://therid.github.io/depiction/bluetoothrename/theme.html
 
 Package: com.alex.tweakcount2
-Version: 0.0.1-110
+Version: 0.0.1-111
 Section: Tweaks
 Maintainer: Alexandre <alexandre31.tweak@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.alex.tweakcount2_0.0.1-110_iphoneos-arm.deb
-Size: 31442
+Filename: /debs/com.alex.tweakcount2_0.0.1-111_iphoneos-arm.deb
+Size: 31440
 Installed-Size: 252
-MD5sum: 6c67edde00cdc6cbaf8abe583c0dd763
+MD5sum: 9867a4fbf71dc5314647dec24bd29b8d
 Description: An awesome MobileSubstrate tweak!
 Name: Tweak Count 2
 Author: Alexandre <alexandre31.tweak@gmail.com>
