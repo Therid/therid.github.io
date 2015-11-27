@@ -1,0 +1,8 @@
+Origin: Alexandre's Beta Repo
+Label: Alexandre's Beta Repo
+Suite: stable
+Version: 1.0
+Codename: optimal
+Architectures: iphoneos-arm
+Components: main
+Description: Alexandre's beta tweaks repo.
