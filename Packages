@@ -1,34 +1,46 @@
 Package: com.alex.bluetoothname
-Version: 1.1-8
-Architecture: iphoneos-arm
-Maintainer: Alexandre <alexandre31.tweak@gmail.com>
-Installed-Size: 69
-Depends: mobilesubstrate
-Filename: /debs/com.alex.bluetoothname.deb
-Size: 7128
-MD5sum: d9d5b4ca4b1592e319eae40336cc843f
-SHA1: 8b22e31b30aac25c8bd5b002ad249b58545dfa39
-SHA256: 9a5c5624b4d731852b20af756f8c2b3de4f630ffd002ee175c79195fa0d6ec02
+Version: 1.1.5-1
 Section: Tweaks
+Maintainer: Alexandre <alexandre31.tweak@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/com.alex.bluetoothname_1.1.5-1_iphoneos-arm.deb
+Size: 7830
+Installed-Size: 104
+MD5sum: d91dc4b08e81ff08b304a22d39ac63c5
 Description: Your Bluetooth Device Name in Settings!
-Author: Alexandre <alexandre31.tweak@gmail.com>
 Name: Bluetooth Name in Settings
+Author: Alexandre <alexandre31.tweak@gmail.com>
 Depiction: http://therid.github.io/depiction/bluetoothsnameinsettings/theme.html
 
 Package: com.alex.bluetoothrename
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Alexandre <alexandre31.tweak@gmail.com>
-Installed-Size: 69
-Depends: mobilesubstrate
-Filename: /debs/com.alex.bluetoothrename.deb
-Size: 9412
-MD5sum: dd228e4955e7d336386dbba219a462d0
-SHA1: dc55ff0f29d80d90a9292d7a2d31d9ac2017ec11
-SHA256: 934e12dce7dd4a662907d018bc1e24cd79a854962b528499f4846194505101bb
+Version: 1.1-71
 Section: Tweaks
+Maintainer: Alexandre <alexandre31.tweak@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/com.alex.bluetoothrename_1.1-71_iphoneos-arm.deb
+Size: 9920
+Installed-Size: 104
+MD5sum: 6183ece7ba840dfc20a5c5cf02e2fd19
 Description: Rename your Bluetooth Devices!
-Author: Alexandre <alexandre31.tweak@gmail.com>
 Name: Bluetooth Devices Renamer
+Author: Alexandre <alexandre31.tweak@gmail.com>
 Depiction: http://therid.github.io/depiction/bluetoothrename/theme.html
+
+Package: com.alex.tweakcount2
+Version: 0.0.1-117
+Section: Tweaks
+Maintainer: Alexandre <alexandre31.tweak@gmail.com>
+Depends: mobilesubstrate
+Conflicts: com.alex.tweaksnumber
+Architecture: iphoneos-arm
+Filename: /debs/com.alex.tweakcount2_0.0.1-117_iphoneos-arm.deb
+Size: 31476
+Installed-Size: 252
+MD5sum: 092f7d21d5065e655676cab635e701f9
+Description: Show how many tweaks you have installed in Cydia!
+Name: Tweak Count 2
+Author: Alexandre <alexandre31.tweak@gmail.com>
+Depiction: http://therid.github.io/depiction/tweakcount2/theme.html
 
