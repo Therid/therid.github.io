@@ -29,16 +29,16 @@ Author: Alexandre <alexandre31.tweak@gmail.com>
 Depiction: http://therid.github.io/depiction/bluetoothrename/theme.html
 
 Package: com.alex.tweakcount2
-Version: 0.0.1-172
+Version: 0.0.1-173
 Section: Tweaks
 Maintainer: Alexandre <alexandre31.tweak@gmail.com>
 Depends: mobilesubstrate
 Conflicts: com.alex.tweaksnumber
 Architecture: iphoneos-arm
-Filename: /debs/com.alex.tweakcount2_0.0.1-172_iphoneos-arm.deb
-Size: 32244
+Filename: /debs/com.alex.tweakcount2_0.0.1-173_iphoneos-arm.deb
+Size: 32394
 Installed-Size: 252
-MD5sum: 6c62396bae6381f3de539e55b05cf941
+MD5sum: 148d74c741ade8a66689cca4ec2239c6
 Description: Show how many tweaks you have installed in Cydia!
 Name: Tweak Count 2
 Author: Alexandre <alexandre31.tweak@gmail.com>
